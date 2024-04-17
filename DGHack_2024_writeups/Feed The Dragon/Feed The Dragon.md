@@ -15,3 +15,6 @@ L'url fournie pointe sur un petit jeu à cliquer:
 
 
 J'ai utilisé un script python qui joue au niveau de l'API du service, et qui simule des clics en rafale sur l'API. Quick and dirty, mais ca fonctionne.
+
+
+[Source](https://github.com/VUIBERTAlexis/CTF-Writeups/blob/main/DGHack_2024_writeups/Feed%20The%20Dragon/script.py)
