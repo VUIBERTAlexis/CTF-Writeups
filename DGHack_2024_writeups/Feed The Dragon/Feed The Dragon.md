@@ -14,4 +14,4 @@ L'url fournie pointe sur un petit jeu à cliquer:
 
 
 
-J'ai clairement overingénieuré ici, avec un script python qui joue au niveau de l'API du service, et qui simule des clics en rafale sur l'API. Quick and dirty, mais ca fonctionne.
+J'ai utilisé un script python qui joue au niveau de l'API du service, et qui simule des clics en rafale sur l'API. Quick and dirty, mais ca fonctionne.
