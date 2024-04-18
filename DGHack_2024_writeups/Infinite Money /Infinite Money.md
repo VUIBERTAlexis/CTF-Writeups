@@ -12,4 +12,4 @@ Tester le code sélectionné.
 Répéter ce processus jusqu'à avoir visionné 5000 vidéos.
 Cette tâche était particulièrement ardue car le système se réinitialisait toutes les heures, nécessitant ainsi un code extrêmement optimisé.
 
-[Source](https://github.com/VUIBERTAlexis/CTF-Writeups/blob/main/DGHack_2024_writeups/Infinite%20Money/script.py)
+[Source](https://github.com/VUIBERTAlexis/CTF-Writeups/blob/main/DGHack_2024_writeups/Infinite%20Money%20/script.py)
