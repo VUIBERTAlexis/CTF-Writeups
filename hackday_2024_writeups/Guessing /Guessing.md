@@ -2,7 +2,7 @@ nc challenges.hackday.fr 50395
 
 la réponse est codé. 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e1586a7b-5871-4ce4-ac5a-591b73361afc/c8d04e45-5a76-43d4-a0c6-d0542c8e9d71/Untitled.png)
+![Untitled](https://github.com/VUIBERTAlexis/CTF-Writeups/assets/105975169/f2af8b7a-f942-4efb-966a-9266878b1067)
 
 On se rend compte en executant plusieur foir la commande que pour chaque lettre est coder avec lui meme ou ces 2 lettres proches dans l’alphabet.
 
@@ -12,9 +12,7 @@ En décodans les deux phrases on nous propose d’entrer un nombre.
 
 On essaye de brutforce ce nombre, on trouve 42.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e1586a7b-5871-4ce4-ac5a-591b73361afc/f3d88908-edde-4666-a107-520323fb63f9/Untitled.png)
-
-
+![Untitled (1)](https://github.com/VUIBERTAlexis/CTF-Writeups/assets/105975169/15ebf84e-39a3-47ee-8531-92bb1f2f2664)
 
 
 
