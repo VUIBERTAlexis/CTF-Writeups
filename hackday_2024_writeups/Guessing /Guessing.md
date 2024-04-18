@@ -17,4 +17,4 @@ On essaye de brutforce ce nombre, on trouve 42.
 
 
 
-https://github.com/VUIBERTAlexis/CTF-Writeups/blob/main/hackday_2024_writeups/Guessing%20/script.py
+[source](https://github.com/VUIBERTAlexis/CTF-Writeups/blob/main/hackday_2024_writeups/Guessing%20/script.py)
