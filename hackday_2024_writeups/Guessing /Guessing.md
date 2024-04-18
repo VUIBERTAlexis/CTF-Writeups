@@ -4,7 +4,7 @@ la réponse est codé.
 
 ![Untitled](https://github.com/VUIBERTAlexis/CTF-Writeups/assets/105975169/f2af8b7a-f942-4efb-966a-9266878b1067)
 
-On se rend compte en executant plusieur foir la commande que pour chaque lettre est coder avec lui meme ou ces 2 lettres proches dans l’alphabet.
+On se rend compte en executant plusieur foir la commande que pour chaque lettre, elle est coder avec elle meme ou ces 2 lettres proches dans l’alphabet.
 
 Exemple: B peut etre coder en A ou B ou C. 
 
